@@ -4,7 +4,8 @@
 
 This project explores the construction and use of a knowledge graph, specifically utilizing a movie dataset. The objective is to create a knowledge graph that can be queried, enhanced with RAG (Retrieval-Augmented Generation), and integrated into a chatbot interface for answering user queries.
 
-![image](https://github.com/user-attachments/assets/dc662bed-81ef-48c3-91c0-00dfff314606)
+![image](https://github.com/user-attachments/assets/2fa4233d-19fa-4409-b242-d2aac33df695)
+
 
 
 

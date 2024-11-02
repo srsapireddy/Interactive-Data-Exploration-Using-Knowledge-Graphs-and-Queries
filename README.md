@@ -4,7 +4,8 @@
 
 This project explores the construction and use of a knowledge graph, specifically utilizing a movie dataset. The objective is to create a knowledge graph that can be queried, enhanced with RAG (Retrieval-Augmented Generation), and integrated into a chatbot interface for answering user queries.
 
-![HACK_1_2](https://github.com/user-attachments/assets/4ae8c964-2584-49ea-b13d-58887de44d01)
+![image](https://github.com/user-attachments/assets/dc662bed-81ef-48c3-91c0-00dfff314606)
+
 
 
 ## Table of Contents
@@ -82,7 +83,8 @@ This code walkthrough is divided into six steps, each with its own notebook, to 
 ##### VI. Chatbot Design and Test
    - The final step involves designing and testing the chatbot. The chatbot uses the knowledge graph and RAG integration to answer user queries about movies. Testing ensures that the chatbot can accurately interpret and respond to queries, providing meaningful answers based on the knowledge graph.
 
----
+## WorkFlow
+![HACK_1_2](https://github.com/user-attachments/assets/4ae8c964-2584-49ea-b13d-58887de44d01)
 
 ## Requirements
 

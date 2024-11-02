@@ -4,6 +4,9 @@
 
 This project explores the construction and use of a knowledge graph, specifically utilizing a movie dataset. The objective is to create a knowledge graph that can be queried, enhanced with RAG (Retrieval-Augmented Generation), and integrated into a chatbot interface for answering user queries.
 
+![HACK_1_2](https://github.com/user-attachments/assets/4ae8c964-2584-49ea-b13d-58887de44d01)
+
+
 ## Table of Contents
 
 1. [Why Knowledge Graph](#1-why-knowledge-graph)
@@ -30,8 +33,14 @@ A knowledge graph provides a structured representation of knowledge, enabling be
 ### 2. Series Schema
 The schema defines the structure of the knowledge graph. It includes the entities (e.g., movies, actors, directors) and the relationships between them (e.g., acted_in, directed_by). The schema is crucial as it dictates how data is stored and queried within the graph. A well-designed schema enables seamless querying and ensures that the graph can scale with additional data without significant changes.
 
+![HACK_1_4](https://github.com/user-attachments/assets/adf83813-d645-49ec-ba11-e539fa6b1698)
+
+
 ### 3. Knowledge Graph Fundamentals
 Understanding the fundamentals of knowledge graphs involves learning about nodes (entities), edges (relationships), and properties (attributes). Knowledge graphs are designed to link related entities and provide context, making it possible to answer complex questions. This section covers the basics, including graph theory principles, storage techniques, and common use cases.
+
+![image](https://github.com/user-attachments/assets/8d1a1303-a26b-4049-9f13-c2d677e89d92)
+
 
 ### 4. How to Construct a Knowledge Graph
 This section provides a step-by-step guide on building a knowledge graph. It covers the setup of a Graph Database (GraphDB), data modeling based on the schema, and data ingestion techniques. Constructing a knowledge graph requires defining the schema, preparing the data, and loading it into the database in a way that preserves the relationships.
@@ -44,6 +53,9 @@ The Knowledge Graph Agent acts as an intermediary between the chatbot and the kn
 
 ### 7. RAG with Knowledge Graph
 Retrieval-Augmented Generation (RAG) combines knowledge graph retrieval with language generation models to provide enriched responses. In this project, RAG helps improve the chatbot’s responses by using the knowledge graph to fetch relevant data and a language model to generate coherent answers. This combination provides contextually accurate and fluent responses.
+
+![HACK_1_3](https://github.com/user-attachments/assets/09130110-f3bc-4c37-b3d8-b90e52a6fdbe)
+
 
 ### 8. Constructing Knowledge Graph with Movie Dataset
 

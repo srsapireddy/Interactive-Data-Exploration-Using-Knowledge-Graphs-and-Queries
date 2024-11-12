@@ -94,8 +94,3 @@ This code walkthrough is divided into six steps, each with its own notebook, to 
 - **Notebook Environment** for code walkthrough (e.g., Jupyter)
 - **RAG Model** for retrieval-augmented generation
 
-## Getting Started
-
-1. Clone the repository.
-   ```bash
-   git clone https://github.com/your-username/knowledge-graph-movie-dataset.git

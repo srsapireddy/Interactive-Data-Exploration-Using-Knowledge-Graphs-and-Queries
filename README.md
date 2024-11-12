@@ -1,6 +1,4 @@
-# Knowledge_Graph_LLM
-
-# Knowledge Graph Project
+# Interactive Data Exploration Using Knowledge Graphs and Queries
 
 This project explores the construction and use of a knowledge graph, specifically utilizing a movie dataset. The objective is to create a knowledge graph that can be queried, enhanced with RAG (Retrieval-Augmented Generation), and integrated into a chatbot interface for answering user queries.
 

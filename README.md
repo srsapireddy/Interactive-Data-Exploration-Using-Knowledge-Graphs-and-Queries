@@ -85,6 +85,8 @@ This code walkthrough is divided into six steps, each with its own notebook, to 
 ## WorkFlow
 ![HACK_1_2](https://github.com/user-attachments/assets/4ae8c964-2584-49ea-b13d-58887de44d01)
 
+## YOUTUBE LINK: https://youtu.be/KChdJkoikMk
+
 ## Requirements
 
 - **Graph Database** (e.g., Neo4j, GraphDB)
